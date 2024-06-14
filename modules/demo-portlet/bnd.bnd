@@ -1,0 +1,4 @@
+Bundle-Name: demo-portlet
+Bundle-SymbolicName: com.proliferay
+Bundle-Version: 1.0.0
+Export-Package: com.proliferay.constants
