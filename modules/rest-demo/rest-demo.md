@@ -1,7 +1,7 @@
 # End Points:
-http://localhost:8080/o/rest-demo
-http://localhost:8080/o/rest-demo/morning
-http://localhost:8080/o/rest-demo/morning/hamidul
+- http://localhost:8080/o/rest-demo 
+- http://localhost:8080/o/rest-demo/morning 
+- http://localhost:8080/o/rest-demo/morning/hamidul 
 
 # Configuration Files:
 - com.liferay.portal.remote.cxf.common.configuration.CXFEndpointPublisherConfiguration-cxf.properties
